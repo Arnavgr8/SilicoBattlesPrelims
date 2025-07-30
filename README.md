@@ -68,8 +68,6 @@ The return value of `decide_action` must follow this format:
 
 Keep trading amounts and stock choices consistent with your strategy type.
 
-You can take inspiration from the examples shared but using exact same logic will lead to disqualification.
-
 In the simulations, you'll face off only against other school's logics, not the examples.
 
 ## How We Use Your Strategy
