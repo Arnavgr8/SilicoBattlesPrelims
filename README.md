@@ -74,4 +74,4 @@ In the simulations, you'll face off only against other school's logics, not the 
 
 ## How We Use Your Strategy
 
-We will import your strategy class in our simulation environment and pit it against other strategies to see which performs best.
+We will import your strategy class in our simulation environment and put it against other strategies to see which performs best.
